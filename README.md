@@ -22,5 +22,4 @@ To use compiler sanitizers:
 After the compilation, from within the parent directory:
 
 	$ ./build/theanswer
-	
-	test
+
